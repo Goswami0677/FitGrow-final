@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- For context.getExternalFilesDir("Reports") -->
+    <external-files-path name="reports" path="Reports/" />
+    <!-- Fallbacks -->
+    <external-path name="external" path="." />
+    <files-path name="files" path="." />
+</paths>
